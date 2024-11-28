@@ -1,0 +1,5 @@
+print('olá,mundo') 
+print('texugo')
+print('Jubileu')
+print('eu')
+print('goodinho')
